@@ -356,7 +356,7 @@ var cnItems = {
     "Seeds": "种子",
     "to next level)": "到下一级)",
     "Sampled Hay": "取样干草",
-    "": "",
+    "Boosts Garden bonus by a fixed +25%. Requires 2 Garden(s).": "提高花园奖励固定+25%。需要2个花园。",
     "": "",
     "": "",
     "": "",
